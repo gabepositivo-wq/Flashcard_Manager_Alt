@@ -1,8 +1,6 @@
 package org.flashCardManager.jsonRepository;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.SerializationFeature;
 import org.flashCardManager.exceptions.NotFoundException;
 import org.flashCardManager.exceptions.PersistenceException;
 import org.flashCardManager.model.entity.Identifiable;

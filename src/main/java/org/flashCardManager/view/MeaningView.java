@@ -1,6 +1,5 @@
 package org.flashCardManager.view;
 
-import org.flashCardManager.model.dto.cardDto.CardRequestResponse;
 import org.flashCardManager.model.dto.meaningDto.MeaningRequestResponse;
 import org.flashCardManager.model.entity.Context;
 

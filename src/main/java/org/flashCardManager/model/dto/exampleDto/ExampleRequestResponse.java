@@ -1,6 +1,5 @@
 package org.flashCardManager.model.dto.exampleDto;
 
-import org.flashCardManager.model.dto.userDto.UserRequestUpdate;
 import org.flashCardManager.model.entity.VerbTense;
 
 public class ExampleRequestResponse {

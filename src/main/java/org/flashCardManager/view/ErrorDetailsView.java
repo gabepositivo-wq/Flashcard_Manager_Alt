@@ -1,7 +1,6 @@
 package org.flashCardManager.view;
 
 import org.flashCardManager.controller.common.ErrorType;
-import org.flashCardManager.controller.common.Result;
 
 public class ErrorDetailsView {
 
